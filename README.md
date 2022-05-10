@@ -8,3 +8,9 @@ Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## 🚀 Let's code! 🚀
+
+* Criação de um rodapé com lista
+* Adição de um background com desig em cores vivas
+* Efeito de transparência
+
+
